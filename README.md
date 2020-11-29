@@ -1,1 +1,13 @@
 # Ajax-with-PHP-MySQL
+  - Introuction
+  - Insert Records in Database
+  - Delete Records in Database
+  - Update Records in Database
+  - Live Search
+  - Pagination
+  - Load More Pagination
+  - Serialize Form Data
+  - Read JSON Data with jQuery
+  - JSON_Encode Function
+  - JSON_Decode Function
+  - Create Dynamic JSON File
